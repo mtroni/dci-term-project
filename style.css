@@ -1,0 +1,28 @@
+body{
+    background-color: #346B7C;
+    margin:0;
+    padding:0;
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+}
+
+#cards{
+    background-color: white;
+
+}
+.hike {
+        width: 100%;
+        height: auto;
+      }
+.fish{
+    font-size: 2em;
+    
+}
