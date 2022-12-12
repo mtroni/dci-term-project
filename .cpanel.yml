@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mtroniwludci/repositories/
+    - export DEPLOYPATH=/home/mtroni/repositories/
     -  /bin/cp -r /home/mtroni/<repositories>/<repo>/* $DEPLOYPATH
