@@ -21,8 +21,15 @@ footer{
 .hike {
         width: 100%;
         height: auto;
+        text-align: center;
       }
 .fish{
     font-size: 2em;
     
+}
+.lead{
+    text-align: center;
+}
+h1{
+    text-align: center;
 }
