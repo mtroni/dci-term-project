@@ -43,8 +43,13 @@ h1{
 .lead{
     text-align: center;
 }
+h1{
+    font-family: 'Oswald';
+}
 
-.shoe{ text-align: center;}
+
+.shoe{ text-align: center;
+font-family: sans-serif;}
 .foot{text-align: center;}
 .sponge{text-align: end;}
 .dora{text-align: center;
@@ -54,7 +59,14 @@ h1{
         margin: 0;
         padding:0;
     }
-    
+
+h4{
+    font-family: 'Oswald';
+}
+
+h5{
+    font-family: 'oswald';
+}
     body{
         text-align:center;
     }
