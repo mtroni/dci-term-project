@@ -46,8 +46,10 @@ h1{
 
 .shoe{ text-align: center;}
 .foot{text-align: center;}
-.dora{text-align: left;
-    font-family: 'Oswald', sans-serif;}
+.sponge{text-align: end;}
+.dora{text-align: center;
+    font-family: 'Oswald';}
+    h2{font-family: 'Oswald';}
     *{
         margin: 0;
         padding:0;
@@ -81,6 +83,12 @@ h1{
         color:aliceblue;
         letter-spacing: 4px;
         font-family:'sans-serif';
+    
+    }
+    
+    nav{
+        float: center;
+        line-height: auto;
     
     }
     
